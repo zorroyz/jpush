@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yz/reactnative/jpush/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/yz/reactnative/jpush/android/app/build/intermediates/exploded-aar/jpush/jpush-react-native/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yz/reactnative/jpush/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/richpush_btn_selector.xml",
+        "source": "/Users/yz/reactnative/jpush/android/app/build/intermediates/exploded-aar/jpush/jpush-react-native/unspecified/res/drawable-mdpi-v4/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/yz/reactnative/jpush/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_richpush_actionbar_back.png",
+        "source": "/Users/yz/reactnative/jpush/android/app/build/intermediates/exploded-aar/jpush/jpush-react-native/unspecified/res/drawable-mdpi-v4/ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/yz/reactnative/jpush/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_richpush_actionbar_divider.png",
+        "source": "/Users/yz/reactnative/jpush/android/app/build/intermediates/exploded-aar/jpush/jpush-react-native/unspecified/res/drawable-mdpi-v4/ic_richpush_actionbar_divider.png"
+    }
+]
